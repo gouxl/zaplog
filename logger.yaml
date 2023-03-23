@@ -1,0 +1,6 @@
+filename: ./test.log
+maxsize: 1  #单位MB
+maxAge: 30
+maxBackups: 1
+compress: true
+loglevel: info
